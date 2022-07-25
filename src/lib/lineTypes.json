@@ -1,0 +1,46 @@
+[
+  {
+    "kor": "텍스트",
+    "eng": "text",
+    "constantVowel": "ㅌㅔㄱㅅㅡㅌㅡ",
+    "inital": "ㅌㅅㅌ"
+  },
+  {
+    "kor": "제목1",
+    "eng": "title1",
+    "constantVowel": "ㅈㅔㅁㅗㄱ1",
+    "inital": "ㅈㅁ"
+  },
+  {
+    "kor": "제목2",
+    "eng": "title2",
+    "constantVowel": "ㅈㅔㅁㅗㄱ2",
+    "inital": "ㅈㅁ"
+  },
+  {
+    "kor": "제목3",
+    "eng": "title3",
+    "constantVowel": "ㅈㅔㅁㅗㄱ3",
+    "inital": "ㅈㅁ3"
+  },
+  {
+    "kor": "표",
+    "eng": "table",
+    "constantVowel": "ㅍㅛ"
+  },
+  {
+    "kor": "단답형문제",
+    "eng": "shortanswer",
+    "constantVowel": "ㄷㅏㄴㄷㅏㅂㅎㅕㅇㅁㅜㄴㅈㅔ"
+  },
+  {
+    "kor": "단어문제",
+    "eng": "wordquiz",
+    "constantVowel": "ㄷㅏㄴㅇㅓㅁㅜㄴㅈㅔ"
+  },
+  {
+    "kor": "객관식문제",
+    "eng": "multiplechoices",
+    "constantVowel": "ㄱㅐㄱㄱㅘㄴㅅㅣㄱㅁㅜㄴㅈㅔ"
+  }
+]
